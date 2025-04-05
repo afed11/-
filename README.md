@@ -1,2 +1,2 @@
-# -
-для чат бота
+# chat bot
+for chat bot
